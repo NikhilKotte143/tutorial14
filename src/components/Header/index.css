@@ -1,0 +1,34 @@
+/* Write your CSS code here */
+.header-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.wave-container {
+  display: flex;
+  justify-content: row;
+}
+
+.wave {
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 300;
+  color: #12022f;
+}
+.logo {
+  width: 24px;
+  height: 24px;
+  margin-right: 8px;
+}
+
+.nav-menu {
+  display: flex;
+  flex-direction: row;
+}
+
+.nav-link {
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 300;
+  color: #12022f;
+}

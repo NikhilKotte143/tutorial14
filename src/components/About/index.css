@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.image {
+  height: 400px;
+  width: 400px;
+}
+
+.heading {
+  color: #6d396b;
+  font-size: 100px;
+  font-weight: 500;
+  font-family: Roboto;
+}
+
+.description {
+  color: #555555;
+  font-size: 30px;
+  font-family: Roboto;
+}
